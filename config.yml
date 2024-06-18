@@ -62,7 +62,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
-  useLogo: false
+  useLogo: true
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
