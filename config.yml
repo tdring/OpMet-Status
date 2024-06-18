@@ -36,7 +36,9 @@ params:
   disableDarkMode: false
   shortDateFormat: 15:04 UTC — Jan 2
   down: "#e60000"
-  systems: []
+  systems:
+    - name: Voice Service
+      category: Main
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -52,7 +54,9 @@ params:
   incidentHistoryFormat: yearly
   disableIncidentHistory: false
   ok: "#008000"
-  categories: []
+  categories:
+    - name: Main
+      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
