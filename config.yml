@@ -46,7 +46,7 @@ params:
     - name: Web Console
       category: Voice
     - name: Mapping
-      category: Unsorted
+      category: UnSorted
       description: ByWay Map Display
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
