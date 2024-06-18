@@ -70,10 +70,10 @@ params:
   ok: "#008000"
   categories:
     - name: General
-      untitled: false
-      closed: true
+      untitled: true
+      closed: false
     - name: Voice
-      closed: true
+      closed: false
       description: Status of Communication Services
       untitled: false
   description: We continuously monitor the status of our services and if there are
