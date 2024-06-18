@@ -46,7 +46,7 @@ params:
     - name: Web Console
       category: Voice
     - name: Mapping
-      category: UnSorted
+      category: general
       description: ByWay Map Display
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
@@ -67,9 +67,9 @@ params:
     - name: Voice
       closed: true
       description: Status of Communication Services
-      untitled: false
-    - name: UnSorted
       untitled: true
+    - name: General
+      untitled: false
       closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
