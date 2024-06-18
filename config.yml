@@ -46,11 +46,11 @@ params:
       category: Voice
       description: ""
     - name: Mapping
-      category: general
+      category: General
       description: ByWay Map Display
       partial: ""
     - name: Blue Book
-      category: general
+      category: General
       description: Vehicle Info pages
       partial: https://bluebook.opmeteor.co.uk
   dateFormat: January 2, 2006 at 3:04 PM UTC
