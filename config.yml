@@ -52,7 +52,7 @@ params:
     - name: Blue Book
       category: General
       description: Vehicle Info pages
-      partial: https://bluebook.opmeteor.co.uk
+      partial: ""
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -62,7 +62,7 @@ params:
   googleAnalytics: UA-00000000-1
   alwaysKeepBrandColor: false
   disableComplexCalculations: false
-  useLogo: true
+  useLogo: false
   disrupted: "#cc4400"
   notice: "#24478f"
   incidentHistoryFormat: yearly
