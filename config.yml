@@ -1,4 +1,4 @@
-title: Demo Status
+title: Service Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
@@ -40,14 +40,19 @@ params:
     - name: Core Service
       category: Voice
       description: The Backbone of the Voice Service
+    - name: Web Console
+      category: Voice
     - name: Web UI
       category: Voice
       description: ""
-    - name: Web Console
-      category: Voice
     - name: Mapping
       category: general
       description: ByWay Map Display
+      partial: ""
+    - name: Blue Book
+      category: general
+      description: Vehicle Info pages
+      partial: https://bluebook.opmeteor.co.uk
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
@@ -64,13 +69,13 @@ params:
   disableIncidentHistory: false
   ok: "#008000"
   categories:
+    - name: General
+      untitled: false
+      closed: true
     - name: Voice
       closed: true
       description: Status of Communication Services
       untitled: true
-    - name: General
-      untitled: false
-      closed: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
