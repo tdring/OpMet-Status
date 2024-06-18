@@ -67,8 +67,9 @@ params:
     - name: Voice
       closed: true
       description: Status of Communication Services
-      untitled: true
+      untitled: false
     - name: UnSorted
+      untitled: true
   description: We continuously monitor the status of our services and if there are
     any interruptions, a note will be posted here.
   enableCustomHTML: false
