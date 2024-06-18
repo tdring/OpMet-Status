@@ -5,7 +5,7 @@ date: 2024-06-18T12:20:01.597Z
 resolved: false
 draft: false
 informational: true
-pin: true
+pin: false
 resolvedWhen: 2024-06-18T12:20:01.606Z
 affected:
   - Mapping
