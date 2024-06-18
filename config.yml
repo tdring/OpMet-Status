@@ -2,7 +2,7 @@ title: Demo Status
 buildFuture: true
 defaultContentLanguage: en
 languageCode: en
-baseURL: https://opm-status.netlify.app/
+baseURL: https://status.opmeteor.co.uk
 theme: cstate
 preserveTaxonomyNames: true
 taxonomies:
