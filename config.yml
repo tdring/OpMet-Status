@@ -45,14 +45,6 @@ params:
     - name: Web UI
       category: Voice
       description: ""
-    - name: Mapping
-      category: General
-      description: ByWay Map Display
-      partial: ""
-    - name: Blue Book
-      category: General
-      description: Vehicle Info pages
-      partial: ""
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
